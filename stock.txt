@@ -1,0 +1,21 @@
+
+No. of products
+4
+
+Price of products
+1 = 50.0
+2 = 10.0
+3 = 30.0
+4 = 100.0
+
+Description of products
+1 = ball
+2 = pen
+3 = book
+4 = bat
+
+Quantity of products
+1 = 4
+2 = 9
+3 = 6
+4 = 3
