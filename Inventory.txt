@@ -1,6 +1,0 @@
-book
-4
-pen
-5
-pencil
-17
